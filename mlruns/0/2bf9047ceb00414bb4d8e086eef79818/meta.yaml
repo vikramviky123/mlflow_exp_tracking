@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91981/Desktop/GREAT%20LEARNING/FROM%20SCRATCH%20LEARNING/Krish%20Naik%20Projects/WIP/mlflow_exp_tracking/mlruns/0/2bf9047ceb00414bb4d8e086eef79818/artifacts
+end_time: 1699617435612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bf9047ceb00414bb4d8e086eef79818
+run_name: resilient-wren-534
+run_uuid: 2bf9047ceb00414bb4d8e086eef79818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699617435549
+status: 3
+tags: []
+user_id: '91981'
